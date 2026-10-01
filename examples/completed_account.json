@@ -1,0 +1,13 @@
+{
+  "account_id": "technician-42",
+  "credential_id": "credential-42",
+  "dispatch_status": "completed",
+  "follow_up_status": "closed",
+  "photos": [
+    {
+      "photo_id": "photo-7",
+      "work_order_id": "work-order-9"
+    }
+  ]
+}
+
